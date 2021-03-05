@@ -43,6 +43,7 @@ public class sampleScript : MonoBehaviour
     public void sliderValue()
     {
         text.text = slider.value.ToString();
+        //kkk
     }
 
 }
